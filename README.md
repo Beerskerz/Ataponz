@@ -67,8 +67,8 @@
 <p>
   <h3 align="center">ซัพพอตโดย:</h3>
   <p>
-    <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="https://i.imgur.com/c51cJzA.png" height="80" width="210" alt="josuerv99"/>
+    <a href="http://mc-sker.net/?page=topup">
+      <img align="center" src="https://i.imgur.com/c51cJzA.png" height="80" width="210" alt="beerskerz"/>
     </a>
   </p>
 </p>
