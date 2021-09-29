@@ -6,7 +6,7 @@
 <span align="center">
   <span>
     <h4 align="center">"<em>สวัสดีและต้อนรับทุกคนที่เข้ามาส่อง github </em>"
-      <span align="center">Atapon Khunpia</span>
+      <span align="center">ฉันชื่อ เบียร์ หรือ เบียร์สเกอร์</span>
     </h4>
 </span>
 
