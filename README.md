@@ -68,7 +68,7 @@
   <h3 align="center">ซัพพอตโดย:</h3>
   <p>
     <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
+      <img align="center" src="https://i.imgur.com/IoCYJAI.png" height="50" width="210" alt="josuerv99"/>
     </a>
   </p>
 </p>
