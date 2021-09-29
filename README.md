@@ -5,7 +5,7 @@
 <!-- MAIN PHRASE SECTION -->
 <span align="center">
   <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
+    <h4 align="center">"<em>สวัสดีและต้อนรับทุกคนที่เข้ามาส่อง github </em>"
       <span align="center">Alejandro Taboada Sanchez</span>
     </h4>
 </span>
